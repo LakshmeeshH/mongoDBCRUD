@@ -1,0 +1,15 @@
+{
+  "name": "mongocrud",
+  "version": "1.0.0",
+  "description": "Creating mern app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lakshmeesh H",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.16"
+  }
+}
